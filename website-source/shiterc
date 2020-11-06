@@ -1,5 +1,5 @@
 title='Henrique Lengler'
 subtitle='Personal page'
 footer='Hosted in [Github](http://github.com) - Built by [shite](https://github.com/henriqueleng/shite)'
-blogdir='writings'
+blogdir='notes'
 comment_script='disquss.html'
